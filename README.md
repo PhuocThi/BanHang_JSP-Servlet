@@ -7,3 +7,5 @@ LẬP TRÌNH ỨNG DỤNG WEB BÁN HÀNG ĐƠN GIẢN
   +Admin xác nhận đơn hàng của khách hàng
   +Khách hàng đăng ký, đăng nhập tài khoản
   +Khách hàng có thể xem danh sách hàng, thêm vào giỏ hàng, thanh toán hóa đơn
+
+-File cơ sở dữ liệu: Script.sql
