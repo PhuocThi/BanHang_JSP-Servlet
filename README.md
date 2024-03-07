@@ -17,4 +17,4 @@ LẬP TRÌNH ỨNG DỤNG WEB BÁN HÀNG ĐƠN GIẢN
   +Khách hàng có thể xem danh sách hàng, thêm vào giỏ hàng, thanh toán hóa đơn
 
 
--File cơ sở dữ liệu: Script.sql
+*File cơ sở dữ liệu: Script.sql
